@@ -10,6 +10,6 @@ namespace _5_ejercicios_scripting
     {
         int numeroSecreto = 7;
         int intentosMaximos = 3;
-
+        int intentosRealizados = 0;
     }
 }
