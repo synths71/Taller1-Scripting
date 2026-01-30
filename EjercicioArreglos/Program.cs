@@ -17,9 +17,6 @@
 
             Console.WriteLine("Mayor: " + mayor);
             Console.WriteLine("Menor: " + menor);
-            //fhhf
-            //hfhfh
-            //ybbyub8778
 
         }
     }
