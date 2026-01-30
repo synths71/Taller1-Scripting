@@ -1,4 +1,4 @@
-﻿namespace _20FirmasTaller1
+﻿namespace _20Firmas
 {
     internal class Program
     {
@@ -111,4 +111,3 @@
         }
     }
 }
-

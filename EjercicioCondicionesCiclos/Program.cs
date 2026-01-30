@@ -1,4 +1,4 @@
-﻿namespace EjercicioCondicionalCiclos
+﻿namespace EjercicioCondicionesCiclos
 {
     internal class Program
     {
@@ -13,7 +13,6 @@
                 factorial *= i;
 
             Console.WriteLine("Factorial: " + factorial);
-
         }
     }
 }

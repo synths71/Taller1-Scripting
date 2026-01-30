@@ -1,4 +1,4 @@
-﻿namespace SegundoEjercicioFunciones
+﻿namespace SegundoEjercicioFuncion
 {
     internal class Program
     {
@@ -8,7 +8,6 @@
             string palabra = Console.ReadLine();
 
             Console.WriteLine(EsPalindromo(palabra) ? "Es palíndromo" : "No es palíndromo");
-
         }
 
         static bool EsPalindromo(string texto)
@@ -21,6 +20,5 @@
 
             return texto == invertido;
         }
-
     }
 }

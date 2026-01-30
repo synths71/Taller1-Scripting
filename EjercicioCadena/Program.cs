@@ -1,4 +1,4 @@
-﻿namespace EjercicioCadenas
+﻿namespace EjercicioCadena
 {
     internal class Program
     {
@@ -16,7 +16,6 @@
             }
 
             Console.WriteLine(resultado.Trim());
-
         }
     }
 }
