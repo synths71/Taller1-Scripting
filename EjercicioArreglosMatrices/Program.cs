@@ -1,4 +1,4 @@
-﻿namespace EjercicioArreglos
+﻿namespace EjercicioArreglosMatrices
 {
     internal class Program
     {
@@ -17,7 +17,6 @@
 
             Console.WriteLine("Mayor: " + mayor);
             Console.WriteLine("Menor: " + menor);
-
         }
     }
 }
